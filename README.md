@@ -45,11 +45,3 @@ Track_Calorie_App/
 ├── index.html
 └── README.md
 ```
-
-## Credits
-
-This project is based on the [Traversy Media](https://www.traversymedia.com/) tutorial series.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
